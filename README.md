@@ -35,8 +35,12 @@ MeuPrimeiroProjetoJS
 |-operadores.js
 |-variavel.js
 |-readme.md
-|-imagem
-    |-image.png
+|-asset/images
+    |-resultados
+        |-image.png
+    |-README
+        |-konata.png
+        |-konata 2.jpg
 ```
 
 ## Como executar
