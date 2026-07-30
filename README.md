@@ -3,7 +3,7 @@
 <!-- TOTALLY PERFECT DAY -->
 # Meu primeiro projeto em JavaScript
 
-![Euzinha!](./konata.png)
+![Euzinha!](./assets/images/README/konata.png)
 # Aluno
 
 Nome: Yen Aneki
@@ -71,3 +71,5 @@ console.log("Hello, Dalva!");
 - Utilizar o Markdown;
 - GIT
 - Operadores
+
+![Euzinha 2](./assets/images/README/konata%202.jpg)
