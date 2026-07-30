@@ -73,7 +73,7 @@ console.log("Hello, Dalva!");
 - Criar o README;
 - Instalar extensões;
 - Utilizar o Markdown;
-- GIT
+- GIT;
 - Operadores
 
 ![Euzinha 2](./assets/images/README/konata%202.jpg)
