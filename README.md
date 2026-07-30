@@ -54,7 +54,7 @@ console.log("Hello, Dalva!");
 ```
 
 ## Resultados
-![Hello, Dalva!](./imagem/image.png)
+![Hello, Dalva!](./assets/images/resultados/image.png)
 
 ## Tecnologia
 - JavaScript;
