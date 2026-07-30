@@ -18,4 +18,4 @@ Professor: Vitor Lima
 Este projeto foi desenvolvido durante a primeira aula de JavaScript.
 
 O objetivo foi aprender:
-- Utilizar o VSCode;s
+- Utilizar o VSCode;
